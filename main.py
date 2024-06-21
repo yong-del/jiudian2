@@ -428,7 +428,6 @@ def upload_file_to_github(token, repo_name, file_path, branch='main'):
     except Exception as e:
         print("文件上传失败:", e)
 
-
 if __name__ == "__main__":
     # 从环境变量中获取 GitHub Token
     token = os.getenv("GITHUB_TOKEN")
