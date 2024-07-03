@@ -9,7 +9,6 @@ import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
 from datetime import datetime
-from github import Github
 import socket
 import os
 def init_browser():
