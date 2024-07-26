@@ -1,8 +1,6 @@
 其他频道,#genre#
-河南电视剧,http://39.164.202.90:8899/tsfile/live/0139_5.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://175.8.213.198:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-电影,http://123.189.36.39:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-07月25日17时,#genre#
+07月26日17时,#genre#
 
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
