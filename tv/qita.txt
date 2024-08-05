@@ -1,5 +1,8 @@
 其他频道,#genre#
+武汉2电视剧,http://59.173.243.210:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧,http://123.10.70.175:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://123.189.36.103:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 
-08月04日17时,#genre#
+08月05日17时,#genre#
 
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
