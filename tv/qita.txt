@@ -1,7 +1,5 @@
 其他频道,#genre#
-CHC电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-电影,http://123.189.36.7:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 
-08月11日17时,#genre#
+08月12日17时,#genre#
 
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
