@@ -1,7 +1,11 @@
 其他频道,#genre#
-湖南电影,http://175.0.34.214:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+怀旧剧场,http://121.24.98.149:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://113.218.189.26:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://121.24.98.149:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://123.189.36.7:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://101.229.227.246:7777/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 
-08月23日17时,#genre#
+08月24日17时,#genre#
 
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
